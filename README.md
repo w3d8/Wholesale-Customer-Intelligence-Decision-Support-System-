@@ -1,4 +1,4 @@
-# Wholesale-Customer-Intelligence-Decision-Support-System-
+# Wholesale Customer Intelligence Decision Support System
 
 A data-driven Decision Support System (DSS) designed to analyze wholesale customer purchasing behavior, prioritize customers, and support data-driven sales decisions using a Greedy Heuristic Algorithm.
 Project Overview
